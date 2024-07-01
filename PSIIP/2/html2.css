@@ -1,0 +1,16 @@
+h3{font-weight: normal; 
+    color: blue; text-align: justify; }
+    /*селектор- идентификатор*/
+    #sel {background-color: aqua; height: 189px; width: 189px;
+    text-align: center;}
+    
+/*псевдокласс ссылок*/
+a{
+    color: yellow; 
+    text-decoration: none; 
+}
+a:hover {
+    color: green; 
+}
+/*каскадность проявляется в стилях, применяемых 
+к селекторам (в данном случае к h3 и ссылке)*/

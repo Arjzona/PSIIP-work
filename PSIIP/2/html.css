@@ -1,0 +1,10 @@
+
+/*стиль для всего до-та*/
+body {
+    font-family: 'Times New Roman', Times, serif; 
+    font-size: 16pt; 
+    color: black; 
+    background-image: url('b2.jpg'); 
+    background-repeat: repeat; 
+}
+
